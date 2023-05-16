@@ -34,5 +34,5 @@ public class SneskoMain {
 		if(meta.siZiv() == true) {
 			System.out.println("Pobednik je "+naPotezu.getNaziv()+" CESTITAMO");
 		}
-	}
+	}//aaaa
 }
